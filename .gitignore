@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+src/Uploads/
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache
+.npm/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
